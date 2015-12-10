@@ -13,7 +13,7 @@ The aim of this project is to produce open source workshop materials which can b
 
 ## Learning Objectives
 
-The aim of this workshop is to provide you with the following skills:
+The aim of this workshop is to provide participants with the following skills:
 
 * Reading images into Python
 * Basic image processing
@@ -34,7 +34,9 @@ The data used for this workshop come in the form of images of tags on the backs 
 
 ## Requirements
 
-This workshop assumes that you have a basic understanding of the Python programming language and requires the following software:
+These lessons have been written with a certain type of learner in mind. They assume you are comfortable with writing and using Python code. They also assume a general understanding of statistical concepts. Nothing too esoteric but you should have a working knowledge of regression and significance.
+
+The following software is required:
 
 * Python 3+
 * NumPy
