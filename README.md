@@ -1,5 +1,7 @@
 # Machine Learning Workshop
 
+[![hive entrance](images/classifiers.png)](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
+
 ## Focus
 
 The aim of this project is to produce open source workshop materials which can be used to teach scientists how to use machine learning as a tool to assist them with their research.
