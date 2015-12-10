@@ -1,8 +1,6 @@
-# Machine Learning with Python
+# Workshop dataset
 
 These materials will provide a practical introduction to commonly used machine learning techniques, using data from a real research project into honeybee behaviour that was solved with machine learning.
-
-![](images/entrance.jpg)
 
 ## Classifying Honeybee Tags
 
