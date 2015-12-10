@@ -30,7 +30,7 @@ Experiment Footage             |
 :-------------------------:|
 ![](images/beehive.png)  |
 
-We're interested in distinguishing the three tagged groups of bees in the footage from this experiment. There is far too many videos and bees to be able to do this ourselves, so we'll try to train a machine learning algorithm to perform this classification task for us.
+We're interested in distinguishing the three tagged groups of bees in the footage from this experiment. There are far too many videos and bees to be able to do this ourselves, so we'll try to train a machine learning algorithm to perform this classification task for us. Today's workshop will use a dataset of over 700 images to train and test a machine learning classification program that we'll build.
 
 ## Libraries
 
