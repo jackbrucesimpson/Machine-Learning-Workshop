@@ -41,4 +41,5 @@ The following software is required:
 * Python 3+
 * NumPy
 * OpenCV
+* Matplotlib
 * scikit-learn
